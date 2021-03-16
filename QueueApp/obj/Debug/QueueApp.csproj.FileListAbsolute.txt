@@ -1,0 +1,10 @@
+C:\Users\win 10\source\repos\QueueApp\QueueApp\bin\Debug\QueueApp.exe.config
+C:\Users\win 10\source\repos\QueueApp\QueueApp\bin\Debug\QueueApp.exe
+C:\Users\win 10\source\repos\QueueApp\QueueApp\bin\Debug\QueueApp.pdb
+C:\Users\win 10\source\repos\QueueApp\QueueApp\obj\Debug\QueueApp.csprojAssemblyReference.cache
+C:\Users\win 10\source\repos\QueueApp\QueueApp\obj\Debug\QueueApp.Form1.resources
+C:\Users\win 10\source\repos\QueueApp\QueueApp\obj\Debug\QueueApp.Properties.Resources.resources
+C:\Users\win 10\source\repos\QueueApp\QueueApp\obj\Debug\QueueApp.csproj.GenerateResource.cache
+C:\Users\win 10\source\repos\QueueApp\QueueApp\obj\Debug\QueueApp.csproj.CoreCompileInputs.cache
+C:\Users\win 10\source\repos\QueueApp\QueueApp\obj\Debug\QueueApp.exe
+C:\Users\win 10\source\repos\QueueApp\QueueApp\obj\Debug\QueueApp.pdb
